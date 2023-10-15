@@ -24,6 +24,17 @@ export default defineConfig({
           lang: "en",
         },
       },
+      customCss: [
+				'./src/styles/custom.css',
+			],
+      description: "DolphinSchool. Die Lösung für die digitale Schule von morgen.",
+      logo: {
+        dark: "./src/assets/DolphinSchool_light.png",
+        light: "./src/assets/DolphinSchool_dark.png",
+        src: "./src/assets/DolphinSchool_light.png",
+        alt: "DolphinSchool",
+      },
+      lastUpdated: "15.10.2023",
       sidebar: [
         {
           label: "Docs",
