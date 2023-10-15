@@ -34,7 +34,7 @@ export default defineConfig({
         src: "./src/assets/DolphinSchool_light.png",
         alt: "DolphinSchool",
       },
-      lastUpdated: "15.10.2023",
+      lastUpdated: true,
       sidebar: [
         {
           label: "Docs",
