@@ -31,7 +31,7 @@ export default defineConfig({
       logo: {
         dark: "./src/assets/DolphinSchool_light.png",
         light: "./src/assets/DolphinSchool_dark.png",
-        src: "./src/assets/DolphinSchool_light.png",
+        // src: "./src/assets/DolphinSchool_light.png",
         alt: "DolphinSchool",
       },
       lastUpdated: true,
