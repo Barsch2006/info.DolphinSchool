@@ -7,10 +7,11 @@ export default defineConfig({
   base: "/info.DolphinSchool",
   integrations: [
     starlight({
-      title: "DolphinSchool Docs",
+      title: "DolphinSchool",
       social: {
         github: "https://github.com/filip326/DolphinSchool",
       },
+      defaultLocale: 'root', // optional
       locales: {
         // German docs in `src/content/docs/`
         root: {
