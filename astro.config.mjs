@@ -11,7 +11,6 @@ export default defineConfig({
       social: {
         github: "https://github.com/filip326/DolphinSchool",
       },
-      defaultLocale: "de",
       locales: {
         // German docs in `src/content/docs/`
         root: {
