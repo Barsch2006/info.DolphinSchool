@@ -37,8 +37,8 @@ export default defineConfig({
                 {
                     label: 'Docs',
                     items: [
-                        { label: 'Get started', link: '/docs/' },
-                        { label: 'Login', link: '/docs/login' },
+                        { label: 'Get started', link: '/info.DolphinSchool/docs/' },
+                        { label: 'Login', link: '/info.DolphinSchool/docs/login' },
                     ],
                 },
             ],
